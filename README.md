@@ -7,4 +7,4 @@
 
 # Design
 
-@Colla
+@Collaborators

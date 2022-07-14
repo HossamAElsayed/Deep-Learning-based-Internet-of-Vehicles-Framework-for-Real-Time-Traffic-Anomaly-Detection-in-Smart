@@ -1,5 +1,3 @@
-# python3.6
-
 import os
 import random
 import subprocess

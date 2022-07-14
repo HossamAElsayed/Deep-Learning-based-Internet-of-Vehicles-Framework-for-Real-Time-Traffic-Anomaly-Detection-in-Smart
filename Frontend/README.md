@@ -5,4 +5,4 @@ The Frontend contains main applications:
   2. On-Board Connector [OBU-C link]
   
   [Repo link]: https://github.com/HossamAElsayed/Traffic-Anomaly-Detection-Mobile-App
-  [obu link]: https://github.com/HossamAElsayed/OBU_Connector  
+  [OBU-C link]: https://github.com/HossamAElsayed/OBU_Connector  
